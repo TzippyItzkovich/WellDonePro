@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TzippyItzkovich/WellDonePro/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/TzippyItzkovich/WellDonePro/static/js/main.fc094a51.chunk.js",
+    "main.js.map": "/TzippyItzkovich/WellDonePro/static/js/main.fc094a51.chunk.js.map",
+    "runtime-main.js": "/TzippyItzkovich/WellDonePro/static/js/runtime-main.14eb392b.js",
+    "runtime-main.js.map": "/TzippyItzkovich/WellDonePro/static/js/runtime-main.14eb392b.js.map",
+    "static/js/2.c0a0a7e2.chunk.js": "/TzippyItzkovich/WellDonePro/static/js/2.c0a0a7e2.chunk.js",
+    "static/js/2.c0a0a7e2.chunk.js.map": "/TzippyItzkovich/WellDonePro/static/js/2.c0a0a7e2.chunk.js.map",
+    "static/js/3.c7b4a981.chunk.js": "/TzippyItzkovich/WellDonePro/static/js/3.c7b4a981.chunk.js",
+    "static/js/3.c7b4a981.chunk.js.map": "/TzippyItzkovich/WellDonePro/static/js/3.c7b4a981.chunk.js.map",
+    "index.html": "/TzippyItzkovich/WellDonePro/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/TzippyItzkovich/WellDonePro/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c0a0a7e2.chunk.js.LICENSE.txt": "/TzippyItzkovich/WellDonePro/static/js/2.c0a0a7e2.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/TzippyItzkovich/WellDonePro/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14eb392b.js",
+    "static/js/2.c0a0a7e2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.fc094a51.chunk.js"
+  ]
+}
